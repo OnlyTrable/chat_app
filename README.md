@@ -41,7 +41,7 @@
 ```bash
 npm run dev
 або
-nodemon dev
+yarn dev
 
 ### Режим продакшн (Production)
 
